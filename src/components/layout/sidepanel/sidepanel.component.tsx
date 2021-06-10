@@ -1,3 +1,4 @@
+import { HeroComponent } from "./hero"
 import { NavigationComponent } from "./navigationmenu"
 import { ProfileSectionComponent } from "./profilesection"
 
@@ -10,12 +11,12 @@ const SidePanelSection = () => {
         <header id="header">
             <div className="d-flex flex-column">
 
-            <ProfileSectionComponent />
-            
+            <ProfileSectionComponent /> 
              <NavigationComponent />
             
             </div>
         </header>
+        <HeroComponent />
         </>
     );
 }
