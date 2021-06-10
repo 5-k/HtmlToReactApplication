@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# About
+https://medium.com/tech-that-works/converting-templates-to-react-project-b737b0456fb8
+
 ## Available Scripts
 
 In the project directory, you can run:
