@@ -13,6 +13,10 @@ body {
   color: #272829;
 }
 
+.contactIframe {
+  border:0; width: 100%; height: 290px;
+}
+
 a {
   color: #149ddd;
   text-decoration: none;

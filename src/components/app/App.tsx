@@ -1,10 +1,9 @@
 import React from 'react'; 
+import { LayoutCompnent } from '../layout';
 
 function App() {
   return (
-    <div className="App">
-       This is new app
-    </div>
+     <LayoutCompnent />
   );
 }
 

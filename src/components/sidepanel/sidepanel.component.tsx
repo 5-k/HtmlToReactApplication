@@ -1,4 +1,4 @@
-import { HeroComponent } from "./hero"
+
 import { NavigationComponent } from "./navigationmenu"
 import { ProfileSectionComponent } from "./profilesection"
 
@@ -16,7 +16,7 @@ const SidePanelSection = () => {
             
             </div>
         </header>
-        <HeroComponent />
+      
         </>
     );
 }
